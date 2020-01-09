@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,YACE,QAAS,CACT,SACF,CCHA,kBACE,YACF","file":"main.ba3703d5.chunk.css","sourcesContent":["html, body, * {\r\n  margin: 0;\r\n  padding: 0;\r\n}",".main-container > * {\r\n  height: 100vh;\r\n}"]}

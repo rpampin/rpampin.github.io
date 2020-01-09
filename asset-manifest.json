@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rpampin.github.io/static/css/main.ba3703d5.chunk.css",
+    "main.js": "/rpampin.github.io/static/js/main.63b6fd4b.chunk.js",
+    "main.js.map": "/rpampin.github.io/static/js/main.63b6fd4b.chunk.js.map",
+    "runtime-main.js": "/rpampin.github.io/static/js/runtime-main.e197ff65.js",
+    "runtime-main.js.map": "/rpampin.github.io/static/js/runtime-main.e197ff65.js.map",
+    "static/js/2.77e31003.chunk.js": "/rpampin.github.io/static/js/2.77e31003.chunk.js",
+    "static/js/2.77e31003.chunk.js.map": "/rpampin.github.io/static/js/2.77e31003.chunk.js.map",
+    "index.html": "/rpampin.github.io/index.html",
+    "precache-manifest.b75c8ea2411282a108796909656b7e37.js": "/rpampin.github.io/precache-manifest.b75c8ea2411282a108796909656b7e37.js",
+    "service-worker.js": "/rpampin.github.io/service-worker.js",
+    "static/css/main.ba3703d5.chunk.css.map": "/rpampin.github.io/static/css/main.ba3703d5.chunk.css.map",
+    "static/js/2.77e31003.chunk.js.LICENSE": "/rpampin.github.io/static/js/2.77e31003.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e197ff65.js",
+    "static/js/2.77e31003.chunk.js",
+    "static/css/main.ba3703d5.chunk.css",
+    "static/js/main.63b6fd4b.chunk.js"
+  ]
+}
